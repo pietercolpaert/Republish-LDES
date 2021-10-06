@@ -406,103 +406,103 @@
     <https://basisregisters.vlaanderen.be/ns/adres#Gemeente.officieleTaal> "fr";
     <https://basisregisters.vlaanderen.be/ns/adres#Gemeente.status> <https://data.vlaanderen.be/id/concept/gemeentestatus/inGebruik>;
     a <https://data.vlaanderen.be/ns/generiek#Gemeente>.
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_0.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_0.
 _:df_0_0 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/d.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/d.ttl>;
     <https://w3id.org/tree#value> "d".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_1.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_1.
 _:df_0_1 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/l.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/l.ttl>;
     <https://w3id.org/tree#value> "l".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_2.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_2.
 _:df_0_2 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/b.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/b.ttl>;
     <https://w3id.org/tree#value> "b".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_3.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_3.
 _:df_0_3 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/a.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/a.ttl>;
     <https://w3id.org/tree#value> "a".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_4.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_4.
 _:df_0_4 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/w.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/w.ttl>;
     <https://w3id.org/tree#value> "w".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_5.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_5.
 _:df_0_5 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/r.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/r.ttl>;
     <https://w3id.org/tree#value> "r".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_6.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_6.
 _:df_0_6 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/m.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/m.ttl>;
     <https://w3id.org/tree#value> "m".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_7.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_7.
 _:df_0_7 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/n.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/n.ttl>;
     <https://w3id.org/tree#value> "n".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_8.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_8.
 _:df_0_8 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/f.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/f.ttl>;
     <https://w3id.org/tree#value> "f".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_9.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_9.
 _:df_0_9 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/o.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/o.ttl>;
     <https://w3id.org/tree#value> "o".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_10.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_10.
 _:df_0_10 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/k.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/k.ttl>;
     <https://w3id.org/tree#value> "k".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_11.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_11.
 _:df_0_11 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/s.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/s.ttl>;
     <https://w3id.org/tree#value> "s".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_12.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_12.
 _:df_0_12 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/e.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/e.ttl>;
     <https://w3id.org/tree#value> "e".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_13.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_13.
 _:df_0_13 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/j.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/j.ttl>;
     <https://w3id.org/tree#value> "j".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_14.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_14.
 _:df_0_14 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/t.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/t.ttl>;
     <https://w3id.org/tree#value> "t".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_15.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_15.
 _:df_0_15 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/v.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/v.ttl>;
     <https://w3id.org/tree#value> "v".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_16.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_16.
 _:df_0_16 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/h.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/h.ttl>;
     <https://w3id.org/tree#value> "h".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_17.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_17.
 _:df_0_17 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/z.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/z.ttl>;
     <https://w3id.org/tree#value> "z".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_18.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_18.
 _:df_0_18 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/p.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/p.ttl>;
     <https://w3id.org/tree#value> "p".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_19.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_19.
 _:df_0_19 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/g.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/g.ttl>;
     <https://w3id.org/tree#value> "g".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_20.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_20.
 _:df_0_20 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/c.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/c.ttl>;
     <https://w3id.org/tree#value> "c".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_21.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_21.
 _:df_0_21 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/i.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/i.ttl>;
     <https://w3id.org/tree#value> "i".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_22.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_22.
 _:df_0_22 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/y.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/y.ttl>;
     <https://w3id.org/tree#value> "y".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_23.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_23.
 _:df_0_23 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/u.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/u.ttl>;
     <https://w3id.org/tree#value> "u".
-<http://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_24.
+<https://pieter.pm/Republish-LDES/gemeente-substrings/root.ttl> <https://w3id.org/tree#relation> _:df_0_24.
 _:df_0_24 a <https://w3id.org/tree#SubstringRelation>;
-    <https://w3id.org/tree#node> <http://pieter.pm/Republish-LDES/gemeente-substrings/q.ttl>;
+    <https://w3id.org/tree#node> <https://pieter.pm/Republish-LDES/gemeente-substrings/q.ttl>;
     <https://w3id.org/tree#value> "q".
