@@ -1,0 +1,28 @@
+# trigger workflow:
+
+on:
+  #
+  schedule:
+  #  - cron: '0 0 * * *'
+     - manually
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository, so it can read the files inside it and do other operations
+      - name: Check out repo
+        uses: actions/checkout@v2
+      # Fetch the dataset, write the data to json files and push the files to the repo
+      - name: Fetch and write data
+        uses: LDES-Action
+        with:
+          gh_pages_url: 'pieter.pm/Republish-LDES'
+          datasource_strategy: 'ldes-client'
+          # url you want to fetch
+          url: 'https://bgt.basisregistraties.overheid.nl/feed/2020-08-14T16:05'
+          # output directory name
+          storage: 'bgt-substrings'
+          fragmentation_strategy: 'substring'
+          property_path: '<http://www.w3.org/2004/02/skos/core#prefLabel>'
